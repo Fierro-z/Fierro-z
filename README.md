@@ -1,5 +1,4 @@
 Hi 👋 My name is Carlos Fierro
-<a href="https://www.github.com/Fierro-z" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Fierro-z?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
 ======================================================================================================================================
 Estudiante de Ingeniería de Sistemas en UNAC, Medellín 🇨🇴. Aprendiendo Backend y DevOps. Apasionado por la AI y el open source.
 <p align="left">

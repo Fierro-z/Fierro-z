@@ -1,4 +1,4 @@
-Hi 👋 My name is Carlos Fierro
+Hola, mi nombre es Carlos Fierro 👋
 ======================================================================================================================================
 Estudiante de Ingeniería de Sistemas en UNAC, Medellín 🇨🇴. Enfocado en Backend y DevOps. Apasionado por la AI y el open source.
 <p align="left">

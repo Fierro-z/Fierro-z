@@ -1,6 +1,6 @@
 Hi 👋 My name is Carlos Fierro
 ======================================================================================================================================
-Estudiante de Ingeniería de Sistemas en UNAC, Medellín 🇨🇴. Aprendiendo Backend y DevOps. Apasionado por la AI y el open source.
+Estudiante de Ingeniería de Sistemas en UNAC, Medellín 🇨🇴. Enfocado en Backend y DevOps. Apasionado por la AI y el open source.
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
 </p>
